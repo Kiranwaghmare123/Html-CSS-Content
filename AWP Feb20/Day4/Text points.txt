@@ -1,0 +1,102 @@
+Html:Hypertext Markup Language
+-Web pages
+Hypertext:text within text
+Markup:scripting ,use layout and formatting conversions to a text
+
+HTML:root tag
+HEAD:contains meta information
+TITLE:tiltle for document
+BODY:webpages content makes visible
+
+table
+Row: tr
+Col: td
+col heading:th
+<table>
+<tr>
+<th>Heading1</th>
+<th>Heading1</th>
+</tr>
+</table>
+
+Form:
+-name
+-method=GET/POST(default)
+-action
+
+CSS: Cascading Style Sheet
+presentation
+style to HTML document
+Adv:time save 
+
+Selector{Property:Value;}
+
+div	{color:red;
+	text-align:center;
+	font-size:16px;}
+
+Types of CSS
+1.Inline-style-within line in body tag
+2.Internal/Embedded-style-head section
+3.External-Link-head section
+
+Types of Selector:
+1.Element selector: tag
+2.Class selector: .-tag class attribute-name
+3.Id selector: # -tag id attrivute-name
+4.Child selector:Nesting tags
+5.Universal Selector: *
+
+Measurement Units
+1.%-p{font-size:16pt,line-height:125%}
+2.cm/mm/inch-div{margin-bottom:2cm;}
+3.em-p{letter spacing:7em)
+4.px-pixelP{padding:25px;}
+5.pt/pc-body{font-sixe:18pt;}
+
+colors
+1.Name:Red, orange...
+2.Hexcode:#RRGGBB- #CC1100: 0-9 & A-F
+3.#000000:White, #FFFFFF:Black
+4:RGB:0 to 255, rgb(0,0,0):Black, rgb(255,255,255):White
+5.rgb(50%,50%,50%)
+HSL:Hue,Saturation, Lightness : alpha
+
+CSS Background :
+background-color:#bb0011;
+background-image:url(i2.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:left;
+
+css Font:
+color
+family
+size
+style
+variant
+weight
+
+css Float
+img{float:right;}
+
+CSS Border:
+border-style:dashed;
+	border-width:5px;
+	border-color:orange;
+	border-top-style:solid;
+	border-radius:15px;
+
+CSS Margins:
+
+CSS Padding:
+
+
+
+
+
+
+
+
+
+}
